@@ -11,3 +11,7 @@ as stated is to provide a
 sample website
 # deployment
 ### How to 
+
+
+## copyright 
+addid copyright to simple.html
