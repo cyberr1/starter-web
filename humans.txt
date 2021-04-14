@@ -3,7 +3,14 @@
 
 # TEAM
 
+<<<<<<< HEAD
     Jason json@gmail.com 
+=======
+    Jason Taylor -- jason@git.training-- why not shown in lot 
+	while I am in master branch 
+	
+	ther is something 
+>>>>>>> simple-changes
 
 # THANKS
 
