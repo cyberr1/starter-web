@@ -2,7 +2,7 @@
 start this line
 adding to the staging
 
-adding a line for basing
+adding a line for basing, now more from myfeature branch
 #Introduction
 
 This repository is for showing how Git and GitHub work
