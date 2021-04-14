@@ -1,6 +1,6 @@
 # Starter Web Repo
 start this line
-
+adding to the staging
 #Introduction
 
 This repository is for showing how Git and GitHub work
@@ -8,6 +8,6 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 as stated is to provide a 
-Sample website with plenty of files for demos
+sample website
 # deployment
 ### How to 
