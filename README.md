@@ -10,8 +10,9 @@ This repository is for showing how Git and GitHub work
 as stated is to provide a 
 sample website
 # deployment
-### How to 
 
+# How to contribute
+please for this repository and then issu pull requist for review
 
 ## copyright 
 addid copyright to simple.html
