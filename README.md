@@ -1,6 +1,8 @@
 # Starter Web Repo
 start this line
 adding to the staging
+
+adding a line for basing
 #Introduction
 
 This repository is for showing how Git and GitHub work
