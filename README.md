@@ -5,8 +5,9 @@ start this line
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
 
+## Purpose
+as stated is to provide a 
 Sample website with plenty of files for demos
 # deployment
 ### How to 
