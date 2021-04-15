@@ -16,3 +16,4 @@ please add a review if you like
 
     HTML5, CSS3
     jQuery, Modernizr
+	git
