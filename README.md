@@ -3,6 +3,7 @@ start this line
 adding to the staging
 
 adding a line for basing, now more from myfeature branch
+adding new line after stash -u for untracked file
 #Introduction
 
 This repository is for showing how Git and GitHub work
