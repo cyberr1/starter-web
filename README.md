@@ -18,3 +18,4 @@ please for this repository and then issu pull requist for review
 
 ## copyright 
 addid copyright to simple.html
+All right reserved
